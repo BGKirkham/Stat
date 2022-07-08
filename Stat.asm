@@ -253,7 +253,7 @@ confidenceInt:
 	call	printf
 
 ; free up the memory we allocated
-	mov	rcx, [dat]           	; Address needed in rdi (mov %rax, %rdi).
+	mov	rcx, [dat]           	; Address needed in rcx
 	call	free               	; And free it.
 	
 	jmp exit			; bypass the error messages
