@@ -23,4 +23,8 @@ Num Pts = 5
 The program calculates the mean, standard deviation, standard error and confidence intervals of a sample. 
 The mean is just the sum of the data points divided by the number of data points, the other other equations are as follows:
 
-![T](images/SD.png)
+![](images/SD.PNG)
+
+![](images/SE.PNG)
+
+![](images/where.PNG)
