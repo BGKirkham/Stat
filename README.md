@@ -1,5 +1,5 @@
 # Stat
-Windows 64 bit console app to calculate statistics on a set of numbers entered on the command line
+Windows 64 bit console app to calculate sample statistics on a set of numbers entered on the command line
 
 Simple Example:
 
