@@ -27,6 +27,6 @@ The mean is just the sum of the data points divided by the number of data points
 
 ![](images/SD.gif)
 
-![](images/SE.PNG)
+![](images/SE.gif)
 
-![](images/where.PNG)
+![](images/where.gif)
