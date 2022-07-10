@@ -1,5 +1,5 @@
-; nasm -f win64 LinSys.asm -o LinSys.obj
-; gcc -m64 LinSys.obj -o LinSys.exe
+; nasm -f win64 Stat.asm -o Stat.obj
+; gcc -m64 Stat.obj -o Stat.exe
 
 bits 64
 default rel
