@@ -1,7 +1,9 @@
 # Stat
 Windows 64 bit console app to calculate sample statistics on a set of numbers entered on the command line
 
-Simple Example:
+The build instructions are at the top of the source code.
+
+Example:
 
 ```Stat 14.0, 15.0, 16.0, 17.0, 18.0```
 
